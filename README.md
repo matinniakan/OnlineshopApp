@@ -20,9 +20,9 @@
     <td><img src="./app/src/main/assets/panel_screen.png" alt="Panel Screen" width="200"></td>
   </tr>
    <tr>
-    <td><img src="./app/src/main/assets/fourth-screen.png" alt="Fourth Screen" width="200"></td>
-    <td><img src="./app/src/main/assets/fifth-screen.png" alt="Fifth Screen" width="200"></td>
-    <td><img src="./app/src/main/assets/sixth-screen.png" alt="Sixth Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/information_screen.png" alt="Information Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/invoice_screen.png" alt="Invoice Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/password_screen.png" alt="Password Screen" width="200"></td>
   </tr>
 </table>
 
