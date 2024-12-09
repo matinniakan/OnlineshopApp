@@ -18,8 +18,6 @@
     <td><img src="./app/src/main/assets/product-screen.png" alt="Product Screen" width="200"></td>
     <td><img src="./app/src/main/assets/shopingcart-screen.png" alt="ShoppingCart Screen" width="200"></td>
     <td><img src="./app/src/main/assets/panel-screen.png" alt="Panel Screen" width="200"></td>
-  </tr>
-  <tr>
     <td><img src="./app/src/main/assets/information-screen.png" alt="Information Screen" width="200"></td>
     <td><img src="./app/src/main/assets/invoice-screen.png" alt="Invoice Screen" width="200"></td>
     <td><img src="./app/src/main/assets/password-screen.png" alt="Password Screen" width="200"></td>
