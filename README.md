@@ -14,9 +14,15 @@
 
 <table>
   <tr>
-    <td><img src="./app/src/main/assets/home-screen.png" alt="Home Screen" width="200"></td>
-    <td><img src="./app/src/main/assets/product-screen.png" alt="Product Screen" width="200"></td>
-    <td><img src="./app/src/main/assets/shopingcart-screen.png" alt="ShoppingCart Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/home_screen.png" alt="Home Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/product_screen.png" alt="Product Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/shopingcart_screen.png" alt="ShoppingCart Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/panel_screen.png" alt="Panel Screen" width="200"></td>
+  </tr>
+   <tr>
+    <td><img src="./app/src/main/assets/fourth-screen.png" alt="Fourth Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/fifth-screen.png" alt="Fifth Screen" width="200"></td>
+    <td><img src="./app/src/main/assets/sixth-screen.png" alt="Sixth Screen" width="200"></td>
   </tr>
 </table>
 
